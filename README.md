@@ -1,9 +1,9 @@
 # Human-Machine
-A Machine that thinks.
+A human acting as a machine.
 
 In order to launch it from the command line or as a Python subprocess:
 ```bash
-echo "Theodotos-Alexandreus: Are language models seeking the Truth, machine?" \
+echo "Theodotos-Alexandreus: What would machine do, Human-Machine?" \
   | uvx human-machine \
     --provider-api-key sk-proj-... \
     --github-token ghp_... 
